@@ -6,7 +6,7 @@
 <h2 align="center"> Artificial Intelligence & Machine Learning Engineer</h2>
 
 <p align="center">
-  <a href="mailto:sonu199n@gmail.com">
+  <a href="sonu199n@gmail.com">
     <img src="https://img.shields.io/badge/Email-008000?style=for-the-badge&logo=gmail&logoColor=white0"/>
   </a>
   <a href="https://www.linkedin.com/in/sonu199n">
