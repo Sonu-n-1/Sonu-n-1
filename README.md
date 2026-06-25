@@ -26,11 +26,11 @@
 
 ## Experience
 
-### 📌 Data Science Trainee | NeoSkillz (Remote)
-📅 Mar 2026 – Present  
-- Strong foundation in **Python, SQL, R Programming**  
-- Hands-on experience with **Big Data, NLP & Text Analytics**  
-- Applied **data visualization & statistical techniques**
+### 📌 Ai Enginner Trainee | Datamites
+📅 Apr 2026 – Present  
+- python programming, Statistics Essentials, Machine Learning Associate & Expert
+- Advanced Data Science, Database: SQL and MongoDB with CERTIFIED BI ANALYST & TABLEAU FUNDAMENTALS, Version Control with Git
+- Big Data Foundation, Artificial Intelligence Associate, Computer Vision Engineer, Natural Language Processing.
 
 ---
 
