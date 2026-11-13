@@ -9,14 +9,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sonu199n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu199n" height="10" width="20" /></a>
+<a href="https://www.linkedin.com/in/sonu199n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu199n" height="25" width="35" /></a>
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonu199n@gmail.com" target="_blank">
   <img align="center"
        src="https://cdn.simpleicons.org/gmail/EA4335"
        alt="Gmail"
-       height="10"
-       width="20" />
+       height="25"
+       width="35" />
 </a>
 </p>
 
