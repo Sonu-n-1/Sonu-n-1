@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Hi%20I'm%20Sonu%20N%20👩‍💻&fontSize=35&fontColor=ffffff" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sonu-n-1&label=Profile%20views&color=0e75b6&style=flat" alt="Sonu-n-1" /> </p>
+
 <h2 align="center"> Artificial Intelligence & Machine Learning Engineer</h2>
 
 <p align="center">
@@ -30,7 +32,11 @@ looking_for: AI Engineer · Data Science · Machine Learning
 - 🤝 Open to collaborating on AI-powered products and open-source projects
 
 <br/>
+<p align="left">
+<a href="https://www.linkedin.com/in/sonu199n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu199n" height="30" width="40" /></a>
 
+<a href="https://www.leetcode.com/anweshadas754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anweshadas754" height="30" width="40" /></a>
+</p>
 
 ## Quote I Believe In
 _"Turning data into decisions and ideas into intelligence."_  
