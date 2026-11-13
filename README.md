@@ -14,113 +14,23 @@
   </a>
 </p>
 
----
+<br/>
 
-## About Me
-- Passionate AIML Engineer focused on building intelligent systems  
-- Skilled in Artificial Intelligence, Machine Learning Deep Learning & Python  
-- Love solving real-world problems using AI & Data  
-- Currently learning: Data science, NLP, Big Data & Advanced AI techniques  
+## 🧭 About Me
 
----
+```yaml
+role: AI & ML Undergrad, year of 2025
+focus: Artificial Intelligence · Machine Learning · Deep Learning · Neural Networks · Gen Ai & NLP, LLMs
+currently: Building & Solving real-world AI problems and applications
+looking_for: AI Engineer · Data Science · Machine Learning
+```
 
-## Experience
+- 🔭 I'm currently building real world applications integrated with AI, ML and Data science
+- 🌱 Deepening my knowledge in Data Analysis & Data Engineering, Computer vision & Prompt Engineering, Cloud & Database, Model Evaluation & Deployment, Gen Ai & NLP, LLMs and RAG
+- 🤝 Open to collaborating on AI-powered products and open-source projects
 
-### 📌 Ai Enginner Trainee | Datamites
-📅 Apr 2026 – Present  
-- python programming, Statistics Essentials, Machine Learning Associate & Expert
-- Advanced Data Science, Database: SQL and MongoDB with CERTIFIED BI ANALYST & TABLEAU FUNDAMENTALS, Version Control with Git
-- Big Data Foundation, Artificial Intelligence Associate, Computer Vision Engineer, Natural Language Processing.
+<br/>
 
----
-
-### 📌 Machine Learning Intern | Celestial V Solutions
-- Implemented ML models:
-  - Regression  
-  - Classification  
-  - Random Forest  
-  - K-Means Clustering  
-- Improved prediction accuracy using optimized models  
-
----
-
-### 📌 Python Programming Intern | Seventh Sense
-- Developed real-world Python projects  
-- Debugging & performance optimization  
-- Strong understanding of frameworks & libraries  
-
----
-
-## 🎓 Education
-
-**B.E in AIML – CBIT, Kolar**  
-   CGPA: 8.23/10  
-
-**PUC – Sahyadri PU College**  
-   84.17%  
-
-**SSLC – Adarsha Vidyalaya**  
-   90.88%  
-
----
-
-## 🚀 Projects
-
-### 🚦 Smart License Plate & Helmet Detection
-- Built using **YOLOv8 & Deep Learning**
-- Supports:
-  - Image Mode  
-  - Video Mode  
-  - Webcam Mode  
-- Flask-based web app  
-- Accuracy: 88% training | 79% validation  
-
----
-
-### 🌧️ Rainfall Prediction System
-- Used **Random Forest Regression**
-- Accuracy: 90%  
-- MAE: 19.496  
-- Predicts rainfall using weather data  
-
----
-
-### 🩸 Blood Bank Management System
-- Built using **DBMS**
-- Tracks:
-  - Donors  
-  - Blood groups  
-  - Inventory  
-- Reduces manual work & improves efficiency  
-
----
-
-## 🛠️ Skills
-
-### 💻 Languages & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- SQL
-- Python  
-
----
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
-
-- VS Code  
-- Jupyter Notebook  
-- Google Colab  
-- MySQL  
-
----
 
 ## Quote I Believe In
 _"Turning data into decisions and ideas into intelligence."_  
