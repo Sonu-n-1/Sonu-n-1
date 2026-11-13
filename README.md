@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Hi%20I'm%20Sonu%20N%20👩‍💻&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Hi%20I'm%20Sonu%20N%20👩‍💻&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sonu-n-1&label=Profile%20views&color=0e75b6&style=flat" alt="Sonu-n-1" /> </p>
@@ -134,5 +134,5 @@ _"Open to work, Open to Learn new things."_
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 </p>
