@@ -7,6 +7,19 @@
 
 <h2 align="center"> Artificial Intelligence & Machine Learning Engineer</h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sonu199n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu199n" height="10" width="20" /></a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonu199n@gmail.com" target="_blank">
+  <img align="center"
+       src="https://cdn.simpleicons.org/gmail/EA4335"
+       alt="Gmail"
+       height="10"
+       width="20" />
+</a>
+</p>
+
 <br/>
 
 ## 🧭 About Me
@@ -23,18 +36,6 @@ looking_for: AI Engineer · Data Science · Machine Learning
 - 🤝 Open to collaborating on AI-powered products and open-source projects
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sonu199n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu199n" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonu199n@gmail.com" target="_blank">
-  <img align="center"
-       src="https://cdn.simpleicons.org/gmail/EA4335"
-       alt="Gmail"
-       height="30"
-       width="40" />
-</a>
-</p>
-
 
 <br/>
 
