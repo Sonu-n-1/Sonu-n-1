@@ -26,13 +26,13 @@
 
 ```yaml
 role: AI & ML Undergrad, year of 2025
-focus: Artificial Intelligence · Machine Learning · Deep Learning · Neural Networks · Gen Ai & NLP, LLMs · Agentic Ai
+focus: Artificial Intelligence · Machine Learning · Deep Learning · Neural Networks · Gen Ai & NLP, LLMs · Ai Agents
 currently: Building & Solving real-world AI problems and applications
 looking_for: AI Engineer · Data Science · Machine Learning
 ```
 
 - 🔭 I'm currently building real world applications integrated with AI, ML and Data science
-- 🌱 Deepening my knowledge in Data Analysis & Data Engineering, Computer vision & Prompt Engineering, Cloud & Database, Model Evaluation & Deployment, Gen Ai & NLP, LLMs RAG and Agentic Ai
+- 🌱 Deepening my knowledge in Data Analysis & Data Engineering, Computer vision & Prompt Engineering, Cloud & Database, Model Evaluation & Deployment, Gen Ai & NLP, LLMs RAG and Ai Agents
 - 🤝 Open to collaborating on AI-powered products and open-source projects
 
 <br/>
