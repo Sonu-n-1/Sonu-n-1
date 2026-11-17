@@ -82,7 +82,7 @@ looking_for: AI Engineer · Data Science · Machine Learning
 <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-0066CC?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic_AI-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-7B2CBF?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
